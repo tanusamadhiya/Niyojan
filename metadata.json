@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix Rail Niyojan-AI",
+  "description": "Divisional Block Command \u0026 Optimization Engine for Indian Railways featuring SCADA Interlocking, Live RTIS GIS Network Cartography, Optimization Simulator, 30-Day Capacity Forecast, and Field Possession Operations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
